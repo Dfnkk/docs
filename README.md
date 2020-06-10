@@ -2,9 +2,7 @@
 
 ## JS
 
-### Node JS
-
-#### Importing
+### Importing / Exporting
 
 First lets make a function: 
 ```JavaScript
