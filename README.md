@@ -1,4 +1,4 @@
-# Welcome to the coded docs! (https://dfnkk.github.io/docs/)[https://dfnkk.github.io/docs/]
+# Welcome to the coded docs! [https://dfnkk.github.io/docs/](https://dfnkk.github.io/docs/)
 
 ## JS
 
